@@ -1,0 +1,206 @@
+
+.logo1{
+    display: block;
+    height: 150px;
+    width: 150px;    
+}
+
+.barraNav{
+    width: 100%;
+    padding-top: 0%;
+}
+
+#Inicio{
+    font-size: 30px;
+}
+#Productos{
+    font-size: 30px;
+}
+#Sucursales{
+    font-size: 30px;
+}
+#Ofertas{
+    font-size: 30px;
+}
+#Carrito{
+    font-size: 30px;
+}
+.barraNav{
+    text-align: center;
+}
+footer{
+    color: white;
+    background-color: black;
+    font-size: 18px;
+}
+
+#almacen1imagen{
+    width: 500px;
+    height: 350px;
+}
+
+#almacen1{
+    margin: 30px;
+    margin-bottom: 200px;
+}
+#almacen2imagen{
+    width: 500px;
+    height: 350px;
+}
+
+#almacen2{
+    margin: 30px;
+    margin-bottom: 200px;
+}
+#almacen3imagen{
+    width: 500px;
+    height: 350px;
+}
+
+#almacen3{
+    margin: 30px;
+    margin-bottom: 200px;
+}
+#almacen4imagen{
+    width: 500px;
+    height: 350px;
+}
+
+#almacen4{
+    margin: 30px;
+    margin-bottom: 200px;
+}
+
+#navbarVertical{
+    margin: 30px;
+    width: 100%;
+}
+
+#btnCarritoProductos{
+    margin: 30px;
+}
+
+.logoinicio{
+    text-align: center;  
+}
+#logoinicio{
+    height: 400px;
+    width: 400px;
+}
+#deportes{
+    height: 250px;
+    width: 300px;
+    border-radius: 50%;
+}
+#jardin{
+    height: 250px;
+    width: 300px;
+    border-radius: 50%; 
+}
+#hogar{
+    height: 250px;
+    width: 300px;
+    border-radius: 50%;
+    
+}
+#alimentos{
+    height: 250px;
+    width: 300px;
+    border-radius: 50%;
+}
+#tdeportes{
+    font-size: 35px;
+    color: #021634;
+    -webkit-text-stroke: 1px black;
+}
+#tjardin{
+    font-size: 35px;
+    color: #021634;
+    -webkit-text-stroke: 1px black;
+}
+#thogar{
+    font-size: 35px;
+    color: #021634;
+    -webkit-text-stroke: 1px black;
+}
+#talimentos{
+    color: #021634;
+    font-size: 35px;
+    -webkit-text-stroke: 1px black;
+}
+.carritoofertas{
+    text-align: center;
+    
+}
+#carritoo{
+    height: 50px;
+    width: 200px;
+    background: #021634; 
+    border-radius: 5px;
+}
+#tcarritoo{
+    font-size: 30px;
+    color: #FBED60ff;
+    text-decoration: none;
+}
+#oferta1{
+    height: 350px;
+    width: 350px;
+    border-image-width: 10px;
+    border-color: black;
+}
+#oferta2{
+    height: 350px;
+    width: 350px;
+}
+#oferta3{
+    height: 350px;
+    width: 350px;
+}
+#Pnormal1{
+    font-size: 22px;
+    text-decoration-line: line-through;
+}
+#Pnormal2{
+    font-size: 22px;
+    text-decoration-line: line-through;
+}
+#Pnormal3{
+    font-size: 22px;
+    text-decoration-line: line-through;
+}
+#Poferta1{
+    font-size: 22px;
+}
+#Poferta2{
+    font-size: 22px;
+}
+#Poferta3{
+    font-size: 22px;
+}
+
+ /* punto */ 
+
+ #btnDropdown{
+    border: 0px;
+ }
+
+ #ofertasA{
+    text-decoration: none;
+ }
+ #botonfactura{
+    height: 50px;
+    width: 300px;
+    background-color: #021634;
+}
+
+/* breakpoint 2 */
+
+aside{
+    float: left;
+}
+
+#imagenProducto{
+    width: 350px;
+    height: 300px;
+}
